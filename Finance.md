@@ -1,3 +1,4 @@
+@import"{{site.theme}}";
 ## Welcome to BU Field
 
 You can use the [editor on GitHub](https://github.com/jixx6580/hi_cp202/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
