@@ -1,4 +1,6 @@
-## Welcome to BU Field
+# Welcome to BU Career
+
+## BU Career introduces you to the world of business and all the different career opportunities it presents. The main fields of business include Finance, Accounting, Marketing, Human Resources, and International Business.
 
 You can use the [editor on GitHub](https://github.com/jixx6580/hi_cp202/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
