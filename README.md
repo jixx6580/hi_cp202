@@ -1,9 +1,9 @@
-# Finance
+# ][Finance](Finance.htm)
 ## Welcome to BU Field
 
 You can use the [editor on GitHub](https://github.com/jixx6580/hi_cp202/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[Whenever](asgn02Submit.htm) you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
